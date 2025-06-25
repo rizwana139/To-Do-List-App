@@ -10,5 +10,26 @@ Editor: VS Code
 
 **Features**
 
+✓Add new tasks
+
+✓View all tasks
+
+✓Remove specific tasks
+
+**Outcome:**
+
+A fully functional and persistent CLI-based To-Do list application using fundamental Python concepts like:
+
+ •Lists
+
+ •File handling
+
+ •User input
+
+ •Control flow
+
+**Author Name:**  Vempalli Rizwana 
+**Email ID:** rrizzu139@gmail.com 
+
 
 
